@@ -11,7 +11,7 @@ Things to check in properties:
 
 2. The only two file types that should be posted on github
 
-      Header files .... .h
+       Header files .... .h
       
        Source files .... .cpp
 
