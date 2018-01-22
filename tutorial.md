@@ -5,13 +5,16 @@
 
 Things to check in properties:
 
-1. SDK version
+1. Properties -> Linker -> System -> Subsystem -> choose console
 
-   2. Properties -> Linker -> System -> Subsystem -> choose console
+   2. Check SDK version
 
-3. Header files .... .h
+2. The only two file types that should be posted on github
+      Header files .... .h
+       Source files .... .cpp
 
-4. Source files .... .cpp
+"virtual" allows child class can modify a parent class
+"virtual void processImage means that all parent classes must use ImageEffect
 
 
 Guide goes here
