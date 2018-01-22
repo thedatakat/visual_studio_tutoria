@@ -5,6 +5,7 @@ Guide goes here
 1. Item 3
    1. Item 3a
    1. Item 3b
+   -   Item C
 
 *This text will be italic*
 _This will also be italic_
