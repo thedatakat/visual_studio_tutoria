@@ -5,13 +5,13 @@
 
 Things to check in properties:
 
-SDK version
+1. SDK version
 
-Properties -> Linker -> System -> Subsystem -> choose console
+   2. Properties -> Linker -> System -> Subsystem -> choose console
 
-Header files .... .h
+3. Header files .... .h
 
-Source files .... .cpp
+4. Source files .... .cpp
 
 
 Guide goes here
