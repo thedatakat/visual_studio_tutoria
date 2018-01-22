@@ -4,7 +4,9 @@
 
 
 Things to check in properties:
+
 SDK version
+
 Properties -> Linker -> System -> Subsystem -> choose console
 
 Header files .... .h
