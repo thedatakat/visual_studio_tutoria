@@ -8,6 +8,7 @@ SDK version
 Properties -> Linker -> System -> Subsystem -> choose console
 
 Header files .... .h
+
 Source files .... .cpp
 
 
